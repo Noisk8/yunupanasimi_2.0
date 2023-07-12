@@ -1,0 +1,31 @@
+{
+  "main": [
+    {
+      "name": "inicio",
+      "url": "/"
+    },
+    {
+      "name": "Acerca de",
+      "url": "/about"
+    },
+    {
+      "name": "Sintaxis",
+      "url": "/elements"
+    },
+    {
+      "name": "Tutoriales",
+      "url": "/blog"
+    }
+
+  ],
+  "footer": [
+    {
+      "name": "Asimtria",
+      "url": "/elements"
+    },
+    {
+      "name": "Yupanasimi",
+      "url": "/privacy-policy"
+    }
+  ]
+}
