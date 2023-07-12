@@ -1,5 +1,5 @@
 ---
-title: "Privacy"
+title: "Investigación"
 meta_title: ""
 description: "this is meta description"
 draft: false

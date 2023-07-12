@@ -1,12 +1,12 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "Cómo bajar el volumen"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["Software"]
+image: "https://yupanasimi.org/imagen/011.png"
+categories: ["Audio"]
 author: "John Doe"
-tags: ["software", "tailwind"]
+tags: ["Audio", "Sintaxis"]
 draft: false
 ---
 

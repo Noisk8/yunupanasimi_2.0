@@ -15,6 +15,10 @@
     {
       "name": "Tutoriales",
       "url": "/blog"
+    },
+    {
+      "name": "Investigación",
+      "url": "/investigacion"
     }
 
   ],

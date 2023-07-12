@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
+title: "Tutoriales"
 meta_title: ""
-description: "this is meta description"
+description: "Tutoriales yupanasimi"
 ---

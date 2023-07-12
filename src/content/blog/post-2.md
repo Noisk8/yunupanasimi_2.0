@@ -1,12 +1,12 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "Cómo crear vídeo"
 meta_title: ""
-description: "this is meta description"
+description: "Crear vídeo en yupanasimi"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["Technology", "Data"]
+image: "https://yupanasimi.org/imagen/015.png"
+categories: ["Vídeo", "Sintaxis"]
 author: "Sam Wilson"
-tags: ["technology", "tailwind"]
+tags: ["Vídeo", "tailwind"]
 draft: false
 ---
 
