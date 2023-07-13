@@ -5,7 +5,7 @@ description: "Crear audio en yupanasimi"
 date: 2022-04-04T05:00:00Z
 image: "https://yupanasimi.org/imagen/018.png"
 categories: ["Audio", "Sintaxis"]
-tags: ["Audio", "tailwind"]
+tags: ["Audio", "sintaxis"]
 draft: false
 ---
 

@@ -5,7 +5,6 @@ description: "this is meta description"
 date: 2022-04-04T05:00:00Z
 image: "https://yupanasimi.org/imagen/011.png"
 categories: ["Audio"]
-author: "John Doe"
 tags: ["Audio", "Sintaxis"]
 draft: false
 ---

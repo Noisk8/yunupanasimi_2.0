@@ -5,8 +5,7 @@ description: "Crear vídeo en yupanasimi"
 date: 2022-04-04T05:00:00Z
 image: "https://yupanasimi.org/imagen/015.png"
 categories: ["Vídeo", "Sintaxis"]
-author: "Sam Wilson"
-tags: ["Vídeo", "tailwind"]
+tags: ["Vídeo", "sintaxis"]
 draft: false
 ---
 
