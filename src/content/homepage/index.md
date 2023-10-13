@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "YUPANASIMI"
-  content: "Livecoding en Quechua con Enfoque Decolonialista para el Rescate de la Memoria y las Interpretaciones Audiovisuales"
+  content: "Yupana Simi es una herramienta para crear código en tiempo real, expresado en una sintaxis inspirada en la lengua quechua, que procesa sonoridades propias de los andes y gráficas contemporáneas de artesanos y artesanas de Sarhua, Acopía y Yanque."
   image: "https://yupanasimi.org/imagen/010.png"
   button:
     enable: true
@@ -23,7 +23,7 @@ features:
       - "**Open-source and free** for personal and commercial use"
     button:
       enable: true
-      label: "Aprende Yupanasimi"
+      label: "🫚 Aprende Yupanasimi"
       link: "#"
 
 
