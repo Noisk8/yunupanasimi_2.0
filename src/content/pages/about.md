@@ -2,9 +2,12 @@
 title: "Yupanasimi"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/logo.png"
+image: "/images/logoacerca.png"
 draft: false
 ---
+Yupana Simiqa llamkayninchik qawanapaqmi hinallataq uyarinapaq, qichwa siminchikpi kipukunawan rurasqam, anti llaqtakunapa uyariyninkunata hinaspa qawariyninkunatapas Sarhua, Acopía chaynallataq Yanque llaqtakunapa makinkuwan rurasqam.
+
+Yupana Simi es una obra audiovisual interactiva ejecutada a través de código expresado en una sintaxis inspirada en la lengua quechua, que procesa sonoridades propias de los andes y gráficas contemporáneas de artesanos y artesanas de Sarhua, Acopía y Yanque.
 
 Esta innovadora herramienta de livecoding está diseñada para promover un enfoque decolonialista y permitir la apropiación tecnológica en el rescate de la memoria y la creación de interpretaciones audiovisuales en las comunidades quechuas.
 
