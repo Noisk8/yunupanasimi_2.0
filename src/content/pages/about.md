@@ -2,7 +2,7 @@
 title: "Yupanasimi"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/logoacerca.png"
+image: "/images/logoacerca444.png"
 draft: false
 ---
 Yupana Simiqa llamkayninchik qawanapaqmi hinallataq uyarinapaq, qichwa siminchikpi kipukunawan rurasqam, anti llaqtakunapa uyariyninkunata hinaspa qawariyninkunatapas Sarhua, Acopía chaynallataq Yanque llaqtakunapa makinkuwan rurasqam.
