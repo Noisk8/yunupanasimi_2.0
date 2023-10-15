@@ -9,14 +9,23 @@ tags: ["Vídeo", "sintaxis"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Para hacer vídeos con yupanasimi consta de abrir la [plataforma para ejecutar código](https://estuary.mcmaster.ca/), selecciona el modo solo, pega el contenido de [este archivo](https://github.com/asimtria/yupanasimi/blob/main/cinecer0) y presiona el boton de play para activar el lenguaje yupanasimi. 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+En la [lista de Vídeos](https://yupanasimi.vercel.app/video) puedes mostrar en yupanasimi.
 
-## Creative Design
+En uno de los Slots pon este comando y presiona el boton de play, así ya el leguaje está activado y puedes disponer de las palabras de la [lista](https://yupanasimi.vercel.app/video)
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+~~~
+##Yup4n4
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+amaru
+~~~
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
+> Sigue los pasos del video para crera tus primeras visuales en quechua
+
+
+<center> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vo8xgeH-WA0?si=Tisg3vFXXtIJIw8m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
